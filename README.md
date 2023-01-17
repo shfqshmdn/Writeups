@@ -1,2 +1,2 @@
 # Writeups
-Writeup about past CTF's
+All about past CTF events/practice I've done.
